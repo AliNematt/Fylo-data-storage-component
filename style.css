@@ -19,6 +19,7 @@ body{
     justify-content: center;
     align-items: center;
     background: url(./images/bg-desktop.png) no-repeat;
+    background-size: contain;
     background-position: 0 140%;
     background-color: hsl(229, 57%, 11%);
     flex-direction: column;
